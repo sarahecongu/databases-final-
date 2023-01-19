@@ -1,0 +1,56 @@
+question 1 i)
+Database refers to an organised group of relations.
+
+ii) Database Management System refers to a software used to manage and maintain
+different databases.
+
+iii)SQL is a structured Query Language used in manipulation of data.
+
+iv)Foreign key refers to a primary key used in other relations to avoid redundancy
+of work
+
+v)primary key refes to a candidate key used to uniquely identify 
+a tuple in a relation in a given database.
+
+question 2
+i)databses help one to avoid data redundancy since foreign keys are used to
+to create such relationship
+ii) databases enable one to easily retrieve,update,delete files that are stored 
+with the database
+iii)databases help one to access their work that has been stroed there
+even after many years.Thus can be used for future referencing
+iv)Databases  are good for security back up  one you the database manager can 
+access it and not everyone
+v)Databases are faster  and also improves  efficiency interms of work output 
+vi)
+
+
+
+
+question 3
+i)Access relational Database Management system is used mainly in 
+microsoft office suites such as Microsoft Access suites
+ii)postgres server is mainly  used in pgAdmin
+iii)MySQL server
+iv)Oracle relational Database Management system
+v)Mongo DB relational Database Management system
+v)Maria DB relational Database Management system
+vi)Casandra relational Database Management system
+
+
+question 4
+one to one relationship ;This is where the attribute uniquely belongs to a specific relation
+one to many relationship
+many to many relationship
+many to one relationship
+zero to many relationship
+
+
+
+question 5b
+i)Where clause is used when one is finding the values in the table
+ii)Group BY is used in grouping similar characters together
+iii)Distinct is used to avoid duplicates during displaying of work
+iv)select statement is used when you want to display the output produced
+v)order by is used when you want to isplay your output either in descending order
+or Ascending order
